@@ -1,0 +1,8 @@
+BloomFilter.NET -- http://github.com/joeyrobert/bloomfilter
+Copyright (c) 2009 Joseph Robert. All rights reserved.
+
+BloomFilter.NET is an implementation of a bloom filter (see 
+http://en.wikipedia.org/wiki/Bloom_filter). A bloom filter is a space-efficient 
+probabilistic data structure that is used to test whether an element is a member 
+of a set. False positives are possible, but false negatives are not. Elements 
+can be added to the set, but not removed.

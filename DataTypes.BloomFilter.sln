@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypes.BloomFilterExample", "DataTypes.BloomFilterExample\DataTypes.BloomFilterExample.csproj", "{D73B5ACA-08CF-487E-B48B-E0A8C47790FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypes.BloomFilter", "DataTypes.BloomFilter\DataTypes.BloomFilter.csproj", "{9F793F9D-AD27-462B-861F-F55D9EDE572F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D73B5ACA-08CF-487E-B48B-E0A8C47790FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D73B5ACA-08CF-487E-B48B-E0A8C47790FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D73B5ACA-08CF-487E-B48B-E0A8C47790FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D73B5ACA-08CF-487E-B48B-E0A8C47790FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F793F9D-AD27-462B-861F-F55D9EDE572F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F793F9D-AD27-462B-861F-F55D9EDE572F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F793F9D-AD27-462B-861F-F55D9EDE572F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F793F9D-AD27-462B-861F-F55D9EDE572F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
