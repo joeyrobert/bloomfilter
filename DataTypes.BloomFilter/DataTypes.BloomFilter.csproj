@@ -8,8 +8,8 @@
     <ProjectGuid>{9F793F9D-AD27-462B-861F-F55D9EDE572F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>BloomFilter</RootNamespace>
-    <AssemblyName>BloomFilter</AssemblyName>
+    <RootNamespace>DataTypes.BloomFilter</RootNamespace>
+    <AssemblyName>DataTypes.BloomFilter</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <StartupObject>
